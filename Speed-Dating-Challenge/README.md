@@ -17,4 +17,5 @@
 >* **KS:** 0.7156
 >* **Misclassification Rate:** 0.1039
 >* **Nodes to note:** variable clustering
-- [x] Pipeline.zip - example - <username>-gradient-boosting.zip
+- [x] Pipeline.zip - 
+>**EXAMPLE** username-gradient-boosting.zip
