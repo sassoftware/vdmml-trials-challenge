@@ -3,7 +3,7 @@
 For this challenge each contributor will share analytics pipelines with the community. 
 ## Details include: 
 * Champion model
-* KS Score
+* KS score
 * Misclassification rates
 * Image of the pipeline
 
