@@ -1,8 +1,8 @@
-C# SAS Visual Data Mining and Machine Learning Trials Challenge
+# SAS Visual Data Mining and Machine Learning Trials Challenge
 ## Brief Description
 For this challenge each contributor will share analytics pipelines with the community. 
 ## Details include: 
-* champion model
+* Champion model
 * KS 
 * Misclassification rates
 * Image of the pipeline
