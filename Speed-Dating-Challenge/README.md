@@ -9,7 +9,8 @@
 7. Select the **New Pull Request** button.
 8. Select the **Create Pull Request** button.
 
-# What to Include in the Folder
+## What to Include in the Folder
+
 - [x] Readme.md - state any cool node you used and the model KS score and misclassification rate.
 >**EXAMPLE**
 >* **Name:** Fernanda's Own Creation
@@ -17,5 +18,5 @@
 >* **KS:** 0.7156
 >* **Misclassification Rate:** 0.1039
 >* **Nodes to note:** variable clustering
-- [x] Pipeline.zip - 
+- [x] Pipeline zip file 
 >**EXAMPLE** username-gradient-boosting.zip
