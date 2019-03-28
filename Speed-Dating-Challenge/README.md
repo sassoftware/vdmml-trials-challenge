@@ -1,4 +1,4 @@
-Challenge Instructions:
+# Challenge Instructions
 
 From The Exchange download your pipeline.
 Add a new directory and give it a name.
@@ -7,7 +7,7 @@ Create a new file.
 Next to Master type README.md (see example below).
 In the description state any cool node you used and the model KS score and misclassification rate.
 
-EXAMPLE:
+## EXAMPLE
 Name: Fernanda's Own Creation,
 Champion Model: Gradient Boosting,
 KS: 0.7156,
