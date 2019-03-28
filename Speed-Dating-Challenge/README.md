@@ -1,15 +1,20 @@
 # Challenge Instructions
 
-From The Exchange download your pipeline.
-Add a new directory and give it a name.
-Upload the file to the new directory.
-Create a new file.
-Next to Master type README.md (see example below).
-In the description state any cool node you used and the model KS score and misclassification rate.
+1. From **The Exchange** download your pipeline.
+2. **Fork** this repository.
+3. Create your file structure locally. 
+4. Upload the folder using GitHub's drag and drop feature.
+5. Add a brief summary. 
+6. Select the **Commit Changes** button.
+7. Select the **New Pull Request** button.
+8. Select the **Create Pull Request** button.
 
-## EXAMPLE
-Name: Fernanda's Own Creation,
-Champion Model: Gradient Boosting,
-KS: 0.7156,
-Misclassification Rate: 0.1039,
-Nodes to note: variable clustering
+# What to Include in the Folder
+- [x] Readme.md - state any cool node you used and the model KS score and misclassification rate.
+>**EXAMPLE**
+> **Name:** Fernanda's Own Creation
+> **Champion Model:** Gradient Boosting
+> **KS:** 0.7156
+> **Misclassification Rate:** 0.1039
+> **Nodes to note:** variable clustering
+- [x] Pipeline.zip - example - <username>-gradient-boosting.zip
