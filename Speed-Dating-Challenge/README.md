@@ -1,13 +1,14 @@
 # Challenge Instructions
 
 1. From **The Exchange** download your pipeline.
-2. **Fork** this repository.
+2. Select the **Fork** button to copy this repository.
 3. Create your file structure locally. 
-4. Upload the folder using GitHub's drag and drop feature.
-5. Add a brief summary. 
+4. Select the **Create New File** button.
+5. Upload the folder using GitHub's drag and drop feature.
+6. Add a brief summary. 
 6. Select the **Commit Changes** button.
-7. Select the **New Pull Request** button.
-8. Select the **Create Pull Request** button.
+8. Select the **New Pull Request** button.
+9. Select the **Create Pull Request** button.
 
 ## What to Include in the Folder
 
