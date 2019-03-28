@@ -12,9 +12,9 @@
 # What to Include in the Folder
 - [x] Readme.md - state any cool node you used and the model KS score and misclassification rate.
 >**EXAMPLE**
-> **Name:** Fernanda's Own Creation
-> **Champion Model:** Gradient Boosting
-> **KS:** 0.7156
-> **Misclassification Rate:** 0.1039
-> **Nodes to note:** variable clustering
+>* **Name:** Fernanda's Own Creation
+>* **Champion Model:** Gradient Boosting
+>* **KS:** 0.7156
+>* **Misclassification Rate:** 0.1039
+>* **Nodes to note:** variable clustering
 - [x] Pipeline.zip - example - <username>-gradient-boosting.zip
