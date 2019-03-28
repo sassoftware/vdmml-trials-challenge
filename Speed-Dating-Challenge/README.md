@@ -12,6 +12,7 @@
 ## What to Include in the Folder
 
 - [x] Readme.md - state any cool node you used and the model KS score and misclassification rate.
+- [x] Pipeline image - include this in your Readme.md - for instructions on how to insert images go [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 >**EXAMPLE**
 >* **Name:** Fernanda's Own Creation
 >* **Champion Model:** Gradient Boosting
@@ -19,4 +20,4 @@
 >* **Misclassification Rate:** 0.1039
 >* **Nodes to note:** variable clustering
 - [x] Pipeline zip file 
->**EXAMPLE** username-gradient-boosting.zip
+
