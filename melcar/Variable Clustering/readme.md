@@ -7,6 +7,4 @@ subsample rate to 1 for both the gradient boosting model without variable cluste
 of the variation that can happen with subsampling.  
 
 ![Pipeline](2019-03-29 11_17_03-Model Studio.png)
-Format: ![Pipeline](url)
-
 
