@@ -8,14 +8,14 @@ of the variation that can happen with subsampling.
 
 Pipeline: 
 
-![Pipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/pipeline.png "Pipeline")
+![Pipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/melcar/Variable-Clustering/pipeline.png "Pipeline")
 
 
 Variable Clustering Results: 
 
-![VariableClusteringResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/VariableClusteringResults.png "Variable Clustering Results")
+![VariableClusteringResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/melcar/Variable-Clustering/VariableClusteringResults.png "Variable Clustering Results")
 
 Model Comparison Results: 
 
-![ModelComparisonResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/ModelComparison.png "Model Comparison Results")
+![ModelComparisonResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/melcar/Variable-Clustering/ModelComparison.png "Model Comparison Results")
 
