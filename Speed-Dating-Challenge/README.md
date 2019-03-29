@@ -12,6 +12,7 @@
 
 ## What to Include in the Folder
 
+- [x] Pipeline zip file 
 - [x] Readme.md - state any cool node you used and the model KS score and misclassification rate.
 - [x] Pipeline image - include this in your Readme.md - for instructions on how to insert images go [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 >**EXAMPLE**
@@ -20,6 +21,6 @@
 >* **KS:** 0.7156
 >* **Misclassification Rate:** 0.1039
 >* **Nodes to note:** variable clustering
-> ![speeddatingpipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/SpeedDatingPipeline.png "Pipeline Image Example")
-- [x] Pipeline zip file 
+> ![Pipeline Image Example](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/SpeedDatingPipeline.png "Pipeline Image Example")
+
 
