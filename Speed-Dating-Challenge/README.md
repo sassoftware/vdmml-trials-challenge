@@ -20,5 +20,6 @@
 >* **KS:** 0.7156
 >* **Misclassification Rate:** 0.1039
 >* **Nodes to note:** variable clustering
+> ![speeddatingpipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/SpeedDatingPipeline.png "Pipeline Image Example")
 - [x] Pipeline zip file 
 
