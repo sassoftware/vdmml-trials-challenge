@@ -6,5 +6,14 @@ Love the variable clustering node. It grouped my variables according to the clus
 subsample rate to 1 for both the gradient boosting model without variable clustering and the one with clustering so that I didn't have any
 of the variation that can happen with subsampling.  
 
-![Pipeline](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/pipeline.png)
+Pipeline: 
+
+![Pipeline](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/pipeline.png "Pipeline")
+
+
+Variable Clustering Results: 
+![VariableClusteringResults](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/VariableClusteringResults.png "Variable Clustering Results")
+
+Model Comparison Results: 
+![ModelComparisonResults](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/ModelComparisonResults.png "Model Comparison Results")
 
