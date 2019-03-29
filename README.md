@@ -9,4 +9,4 @@ For this challenge each contributor will share analytics pipelines with the comm
 
 Before you get started, don't forget to complete a [Contributor Agreement](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/ContributorAgreement.pdf).
 
-Make sure to save your pipelines into the [**Speed Dating Folder**[(https://github.com/sassoftware/vdmml-trials-challenge/tree/master/Speed-Dating-Challenge).
+Make sure to save your pipelines into the [**Speed Dating Folder**](https://github.com/sassoftware/vdmml-trials-challenge/tree/master/Speed-Dating-Challenge).
