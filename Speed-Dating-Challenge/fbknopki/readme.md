@@ -57,4 +57,5 @@ Results of my Champion Model:
 ![VariableImportance](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic04.png "Variable Importance")
  
 Match Prediction of my Champion Model:
+
 ![MatchPrediction](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic05.png "Match Prediction")
