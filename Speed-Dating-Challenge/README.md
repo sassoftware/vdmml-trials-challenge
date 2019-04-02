@@ -3,7 +3,7 @@
 1. From **The Exchange** download your pipeline.
 2. Select the **Fork** button to copy this repository.
 3. Create your file structure locally. 
-4. Select the **Create New File** button.
+4. Select the **Upload File** button.
 5. Upload the folder using GitHub's drag and drop feature.
 6. Add a brief summary. 
 6. Select the **Commit Changes** button.
