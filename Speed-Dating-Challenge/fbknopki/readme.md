@@ -34,11 +34,11 @@ There are much more to explore and be surprised, but I'll leave to you contribut
    
 Below some details:
 
-Pipeline: 
+**Pipeline:** 
 
 ![Pipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic01.png "Pipeline")
 
-Variable Clustering Results:
+**Variable Clustering Results:**
 
 ![ClusteredVariablesNetwork](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic08.png "Clustered Variables Network")
 
@@ -46,16 +46,16 @@ Variable Clustering Results:
 
 ![DendrogramClusteredVariables](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic09.png "Dendrogram Clustered Variables")
 
-Model Comparison Results:
+**Model Comparison Results:**
 
 ![ModelComparisonResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic02.png "Model Comparison Results")
 
-Results of my Champion Model: 
+**Results of my Champion Model:**
 
 ![ErrorPlotMisclassificationRate](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic03.png "Error Plot Misclassification Rate")
 
 ![VariableImportance](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic04.png "Variable Importance")
  
-Match Prediction of my Champion Model:
+**Match Prediction of my Champion Model:**
 
 ![MatchPrediction](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/fbknopki/pic05.png "Match Prediction")
