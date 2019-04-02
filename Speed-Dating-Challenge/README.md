@@ -7,7 +7,7 @@
 5. Upload the folder using GitHub's drag and drop feature.
 6. Add a brief summary. 
 6. Select the **Commit Changes** button.
-8. Select the **New Pull Request** button.
+8. Select the **Pull Request** button.
 9. Select the **Create Pull Request** button.
 
 ## What to Include in the Folder
