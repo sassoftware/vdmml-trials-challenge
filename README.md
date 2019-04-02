@@ -1,6 +1,7 @@
 # SAS Visual Data Mining and Machine Learning Trials Challenge
-## Brief Description
 For this challenge each contributor will share analytics pipelines with the community. 
+## Brief Description
+This repository is a companion to the SAS® Visual Data Mining and Machine Learning software trial. During the trial users are asked to create a few models to see if Love at First Sight is the real deal. As part of the experience, we’re asking users to try a few models on their own and then share their pipeline on GitHub. 
 ## Details include: 
 * Champion model
 * KS score
