@@ -8,14 +8,21 @@ The Python Gradient Boosting model outperforms the SAS Gradient Boosting model b
 
 Pipeline: 
 
-![Pipeline](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/pipeline.png "Pipeline")
-
-
-Variable Clustering Results: 
-
-![VariableClusteringResults](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/VariableClusteringResults.png "Variable Clustering Results")
+![Pipeline](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/Pipeline.png "Pipeline")
 
 Model Comparison Results: 
 
-![ModelComparisonResults](https://github.com/melcar1054/vdmml-trials-challenge/blob/master/melcar/Variable-Clustering/ModelComparison.png "Model Comparison Results")
+![ModelComparisonResults](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/ModelComparison.png "Model Comparison Results")
+
+
+Manage Variables:  
+
+![ManageVariables](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/RejectedVariables.png "Rejected Variables")
+
+
+SAS Code: 
+
+![SASCode](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/sascode.png "SAS Code")
+
+
 
