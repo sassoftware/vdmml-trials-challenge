@@ -22,7 +22,7 @@ Manage Variables:
 
 SAS Code: 
 
-![SASCode](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/sascode.png "SAS Code")
+![SASCode](https://github.com/sassoftware/vdmml-trials-challenge/blob/master/Speed-Dating-Challenge/Tcarey58/SASCode.png "SAS Code")
 
 
 
