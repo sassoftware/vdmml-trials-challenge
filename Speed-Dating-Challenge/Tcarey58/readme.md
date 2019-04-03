@@ -4,7 +4,7 @@ convert some of the data to get it ready for the python model.
 * KS: 0.5935
 * Misclassification Rate: 0.1291
 
-The Python Gradient Boosting model outperforms the SAS Gradient Boosting model but when I applied autotuning to the Gradient Boosting model the autotuned GB model outpermed the pythone one.  
+The Python Gradient Boosting model outperforms the SAS Gradient Boosting model but when I applied autotuning to the Gradient Boosting model the autotuned GB model outperformed the Python one.  
 
 Pipeline: 
 
